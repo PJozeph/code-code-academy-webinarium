@@ -8,6 +8,6 @@ export class EventsService {
     constructor(private httpClient: HttpClient) {}
 
     public getEvents(): Observable<CompanyEvent[]> {
-        return this.httpClient.get<CompanyEvent[]>('http://localhost:8000/events');
+        return this.httpClient.get<CompanyEvent[]>('http://localhost:3000/events');
     }
 }

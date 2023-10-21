@@ -8,6 +8,6 @@ export class PostService {
     constructor(private httpClient: HttpClient) {}
 
     public getPosts(): Observable<Post[]> {
-        return this.httpClient.get<Post[]>('http://localhost:8000/posts');
+        return this.httpClient.get<Post[]>('http://localhost:3000/posts');
     }
 }

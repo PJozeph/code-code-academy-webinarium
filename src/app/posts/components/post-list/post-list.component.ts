@@ -1,6 +1,5 @@
-import { Component, OnInit } from '@angular/core';
-import { map, Observable, tap } from 'rxjs';
-import { EmployeeService } from 'src/app/cca-core/services/employee.service';
+import { Component } from '@angular/core';
+import { Observable } from 'rxjs';
 import { Post } from '../../model/post.model';
 import { PostService } from '../../services/post.service';
 
@@ -10,7 +9,7 @@ import { PostService } from '../../services/post.service';
     styleUrls: ['./post-list.component.scss'],
 })
 export class PostListComponent {
-    posts$: Observable<Post[]> = this.postService.getPosts().pipe(tap(foo => console.log(foo, 'foo')));
+    posts$: Observable<Post[]> = this.postService.getPosts();
 
     constructor(private postService: PostService) {}
 }
