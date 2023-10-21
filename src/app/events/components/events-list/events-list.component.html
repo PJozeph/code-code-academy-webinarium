@@ -1,0 +1,24 @@
+<ion-content>
+    <div *ngIf="events$ | async as events">
+        <ion-grid>
+            <ion-row>
+                <ion-col
+                    size="4"
+                    offset="4">
+                    <ion-list class="foo">
+                        <ion-item
+                            *ngFor="let event of events"
+                            [button]="true">
+                            <ion-icon
+                                slot="start"
+                                name="list-circle"
+                                size="large"></ion-icon>
+                            <ion-label>{{ event.name }}</ion-label>
+                            <ion-note slot="end">6</ion-note>
+                        </ion-item>
+                    </ion-list>
+                </ion-col>
+            </ion-row>
+        </ion-grid>
+    </div>
+</ion-content>

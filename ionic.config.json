@@ -1,0 +1,7 @@
+{
+  "name": "code-code-academy",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
