@@ -1,6 +1,5 @@
 import { NgModule } from '@angular/core';
 import { PreloadAllModules, RouterModule, Routes } from '@angular/router';
-import { HomePage } from './home/home.page';
 import { TapsComponent } from './taps/taps.component';
 
 const routes: Routes = [
@@ -26,8 +25,8 @@ const routes: Routes = [
                 loadChildren: () => import('./posts/posts.module').then(m => m.PostsModule),
             },
             {
-                path: 'events',
-                loadChildren: () => import('./events/events.module').then(m => m.EventsModule),
+                path: 'rooms',
+                loadChildren: () => import('./rooms/rooms.module').then(m => m.RoomsModule),
             },
         ],
     },

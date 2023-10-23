@@ -1,12 +1,11 @@
 import { NgModule } from '@angular/core';
-import { NgModel } from '@angular/forms';
 import { RouterModule, Routes } from '@angular/router';
-import { EventsListComponent } from './components/events-list/events-list.component';
+import { RoomListComponent } from './components/room-list/room-list.component';
 
 const routes: Routes = [
     {
         path: '',
-        component: EventsListComponent,
+        component: RoomListComponent,
     },
 ];
 
@@ -14,5 +13,4 @@ const routes: Routes = [
     imports: [RouterModule.forChild(routes)],
     exports: [RouterModule],
 })
-
 export class EventsRoutingModule {}
