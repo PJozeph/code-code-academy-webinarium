@@ -80,6 +80,16 @@
       "id": 5,
       "name": "Room 5",
       "availableSeats": 0
+    },
+    {
+      "id": 6,
+      "name": "Room 6",
+      "availableSeats": 1
+    },
+    {
+      "id": 7,
+      "name": "Room 7",
+      "availableSeats": 6
     }
   ],
   "posts": [
@@ -91,21 +101,21 @@
       "postDate": "2021-05-05T00:00:00.000Z"
     },
     {
-      "userId": 3,
+      "userId": 6,
       "id": 2,
       "title": "qui est esse",
       "body": "est rerum tempore vitae\nsequi sint nihil reprehenderit dolor beatae ea dolores neque\nfugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis\nqui aperiam non debitis possimus qui neque nisi nulla",
       "postDate": "2020-05-05T00:00:00.000Z"
     },
     {
-      "userId": 2,
+      "userId": 5,
       "id": 8,
       "title": "dolorem dolore est ipsam",
       "body": "dignissimos aperiam dolorem qui eum\nfacilis quibusdam animi sint suscipit qui sint possimus cum\nquaerat magni maiores excepturi\nipsam ut commodi dolor voluptatum modi aut vitae",
       "postDate": "2020-05-06T00:00:00.000Z"
     },
     {
-      "userId": 1,
+      "userId": 6,
       "id": 9,
       "title": "nesciunt iure omnis dolorem tempora et accusantium",
       "body": "consectetur animi nesciunt iure dolore\nenim quia ad\nveniam autem ut quam aut nobis\net est aut quod aut provident voluptas autem voluptas",
@@ -119,14 +129,14 @@
       "postDate": "2020-05-08T00:00:00.000Z"
     },
     {
-      "userId": 3,
+      "userId": 4s,
       "id": 11,
       "title": "et ea vero quia laudantium autem",
       "body": "delectus reiciendis molestiae occaecati non minima eveniet qui voluptatibus\naccusamus in eum beatae sit\nvel qui neque voluptates ut commodi qui incidunt\nut animi commodi",
       "postDate": "2020-05-09T00:00:00.000Z"
     },
     {
-      "userId": 2,
+      "userId": 6,
       "id": 12,
       "title": "in quibusdam tempore odit est dolorem",
       "body": "itaque id aut magnam\npraesentium quia et ea odit et ea voluptas et\nsapiente quia nihil amet occaecati quia id voluptatem\nincidunt ea est distinctio odio",
