@@ -2,6 +2,6 @@
 
 **1. Run npm install** <br> `npm i`
 
-**2. start backend** `json-server --watch db.json`
+**2. start backend** <br> `json-server --watch db.json`
 
-**3. start client** `ionic serve`
+**3. start client** <br> `ionic serve`
