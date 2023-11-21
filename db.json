@@ -53,6 +53,42 @@
       "phoneNumber": "06306354123",
       "bankAccount": "1234-1234-1234-1234",
       "salary": 1000000
+    },
+    {
+      "id": 7,
+      "name": "Larry Page",
+      "imagePath": "https://api.dicebear.com/7.x/pixel-art/svg?seed=LarryPage",
+      "email": "larry@gmail.com",
+      "phoneNumber": "06306354123",
+      "bankAccount": "1234-1234-1234-1234",
+      "salary": 1400000
+    },
+    {
+      "id": 8,
+      "name": "Steve Wozniak",
+      "imagePath": "https://api.dicebear.com/7.x/pixel-art/svg?seed=steve",
+      "email": "seteve@gmail.com",
+      "phoneNumber": "06306354123",
+      "bankAccount": "1234-1234-1234-1234",
+      "salary": 1400000
+    },
+    {
+      "id": 9,
+      "name": "Jack Dorsey",
+      "imagePath": "https://api.dicebear.com/7.x/pixel-art/svg?seed=jackd",
+      "email": "jack@gmail.com",
+      "phoneNumber": "06306354123",
+      "bankAccount": "1234-1234-1234-1234",
+      "salary": 9400000
+    },
+    {
+      "id": 10,
+      "name": "Sergey Brin",
+      "imagePath": "https://api.dicebear.com/7.x/pixel-art/svg?seed=sergey",
+      "email": "sergey@gmail.com",
+      "phoneNumber": "06306354123",
+      "bankAccount": "1234-1234-1234-1234",
+      "salary": 194000
     }
   ],
   "rooms": [
@@ -122,21 +158,21 @@
       "postDate": "2020-05-07T00:00:00.000Z"
     },
     {
-      "userId": 4,
+      "userId": 8,
       "id": 10,
       "title": "optio molestias id quia eum",
       "body": "quo et expedita modi cum officia vel magni\ndoloribus qui repudiandae\nvero nisi sit\nquos veniam quod sed accusamus veritatis error",
       "postDate": "2020-05-08T00:00:00.000Z"
     },
     {
-      "userId": 4,
+      "userId": 9,
       "id": 11,
       "title": "et ea vero quia laudantium autem",
       "body": "delectus reiciendis molestiae occaecati non minima eveniet qui voluptatibus\naccusamus in eum beatae sit\nvel qui neque voluptates ut commodi qui incidunt\nut animi commodi",
       "postDate": "2020-05-09T00:00:00.000Z"
     },
     {
-      "userId": 6,
+      "userId": 10,
       "id": 12,
       "title": "in quibusdam tempore odit est dolorem",
       "body": "itaque id aut magnam\npraesentium quia et ea odit et ea voluptas et\nsapiente quia nihil amet occaecati quia id voluptatem\nincidunt ea est distinctio odio",
