@@ -5,7 +5,7 @@
       "name": "John Doe",
       "imagePath": "https://api.dicebear.com/7.x/pixel-art/svg?seed=John",
       "email": "jhon@gmail.com",
-      "phoneNumber": "06306354914",
+      "phone": "06306354914",
       "bankAccount": "1234-1234-1234-1234",
       "salary": 1000
     },
@@ -14,7 +14,7 @@
       "name": "Bill Gates",
       "imagePath": "https://api.dicebear.com/7.x/pixel-art/svg?seed=Bill",
       "email": "bill@gmail.com",
-      "phoneNumber": "06305431734",
+      "phone": "06305431734",
       "bankAccount": "1234-1234-1234-1234",
       "salary": 5000
     },
@@ -23,7 +23,7 @@
       "name": "Elon Musk",
       "imagePath": "https://api.dicebear.com/7.x/pixel-art/svg?seed=ElonMusk",
       "email": "elon@gmail.com",
-      "phoneNumber": "0630635434",
+      "phone": "0630635434",
       "bankAccount": "1234-1234-1234-1234",
       "salary": 6000
     },
@@ -32,7 +32,7 @@
       "name": "Mark Zuckerberg",
       "imagePath": "https://api.dicebear.com/7.x/pixel-art/svg?seed=MarkZuckerberg",
       "email": "mark@gmail.com",
-      "phoneNumber": "06306354123",
+      "phone": "06306354123",
       "bankAccount": "1234-1234-1234-1234",
       "salary": 221000
     },
@@ -41,7 +41,7 @@
       "name": "Steve Jobs",
       "imagePath": "https://api.dicebear.com/7.x/pixel-art/svg?seed=SteveJobs",
       "email": "steve@gmail.com",
-      "phoneNumber": "06306354123",
+      "phone": "06306354123",
       "bankAccount": "1234-1234-1234-1234",
       "salary": 100000
     },
@@ -50,7 +50,7 @@
       "name": "Jeff Bezos",
       "imagePath": "https://api.dicebear.com/7.x/pixel-art/svg?seed=JeffBezos",
       "email": "jeff@gmail.com",
-      "phoneNumber": "06306354123",
+      "phone": "06306354123",
       "bankAccount": "1234-1234-1234-1234",
       "salary": 1000000
     },
@@ -59,7 +59,7 @@
       "name": "Larry Page",
       "imagePath": "https://api.dicebear.com/7.x/pixel-art/svg?seed=LarryPage",
       "email": "larry@gmail.com",
-      "phoneNumber": "06306354123",
+      "phone": "06306354123",
       "bankAccount": "1234-1234-1234-1234",
       "salary": 1400000
     },
@@ -68,7 +68,7 @@
       "name": "Steve Wozniak",
       "imagePath": "https://api.dicebear.com/7.x/pixel-art/svg?seed=steve",
       "email": "seteve@gmail.com",
-      "phoneNumber": "06306354123",
+      "phone": "06306354123",
       "bankAccount": "1234-1234-1234-1234",
       "salary": 1400000
     },
@@ -77,7 +77,7 @@
       "name": "Jack Dorsey",
       "imagePath": "https://api.dicebear.com/7.x/pixel-art/svg?seed=jackd",
       "email": "jack@gmail.com",
-      "phoneNumber": "06306354123",
+      "phone": "06306354123",
       "bankAccount": "1234-1234-1234-1234",
       "salary": 9400000
     },
@@ -86,7 +86,7 @@
       "name": "Sergey Brin",
       "imagePath": "https://api.dicebear.com/7.x/pixel-art/svg?seed=sergey",
       "email": "sergey@gmail.com",
-      "phoneNumber": "06306354123",
+      "phone": "06306354123",
       "bankAccount": "1234-1234-1234-1234",
       "salary": 194000
     }
